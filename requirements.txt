@@ -1,5 +1,7 @@
 ###### Requirements without Version Specifiers ######
+pandas
 flask
+flask_session
 werkzeug
 tempfile
 functools
